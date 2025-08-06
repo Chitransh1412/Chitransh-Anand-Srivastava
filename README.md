@@ -23,13 +23,10 @@ Includes PDF reporting and research dataset logging.
 *Web:* HTML, Flask  
 *Tools:* Git, Adobe Premiere Pro, After Effects, Canva, MS Office  
 
----
-
 ## 📊 Stats
 
 ![Chitransh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chitransh1412&show_icons=true&theme=default)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitransh1412&layout=compact)
 
 ## 📎 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chitransh-srivastava-802a452a3/)
